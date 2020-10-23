@@ -1,0 +1,25 @@
+{
+  "name": "goodbot",
+  "version": "1.0.0",
+  "description": "GoodBOT is a simple to use multi-functional Discord bot.",
+  "main": "app.js",
+  "dependencies": {
+    "dblapi.js": "^1.2.1",
+    "discord.js": "^11.5.1",
+    "discord.js-arbitrary-ffmpeg": "^1.0.0",
+    "excuse": "^0.1.2",
+    "ffmpeg": "^0.0.4",
+    "forever-monitor": "^1.7.1",
+    "lodash": "^4.17.15",
+    "node-ffmpeg": "^0.0.0",
+    "node-opus": "^0.3.3",
+    "spotify-web": "^1.3.0",
+    "youtube-dl": "^1.13.1",
+    "youtube-node": "^1.3.3",
+    "ytdl": "^1.0.1",
+    "ytdl-core": "^0.20.4"
+  },
+  "devDependencies": {},
+  "author": "Aspire",
+  "license": "ISC"
+}
